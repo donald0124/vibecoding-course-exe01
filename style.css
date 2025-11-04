@@ -1,4 +1,8 @@
 h1{
   color: red;
-  font-size:160px
+  font-size:160px;
+}
+
+p{
+  text-decoration: line-through;
 }
